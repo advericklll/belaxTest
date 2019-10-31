@@ -1,0 +1,8 @@
+spring:
+  config:
+    name: patternFinder
+  application:
+    name: patternFinder
+server:
+  port: 8081
+  contextPath: /pathFinder
